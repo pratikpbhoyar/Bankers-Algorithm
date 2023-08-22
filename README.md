@@ -44,11 +44,7 @@
 | P4 | 0 0 2 | 4 3 3 | 4 0 1 |
 
 ## 7.0. Output :
-![image](https://github.com/pratikpbhoyar/Banker-s-Algorithm/assets/95959045/41a6034d-c5b2-4dab-9e53-e9b09b596efb)
-
-![image](https://github.com/pratikpbhoyar/Banker-s-Algorithm/assets/95959045/ad032b75-0517-49cd-8169-040ba9c8cbd9)
-
-![image](https://github.com/pratikpbhoyar/Banker-s-Algorithm/assets/95959045/ade53732-a2f9-4dbc-b7bb-78ea439ddb5d)
+![Screenshot 2023-08-23 001806](https://github.com/pratikpbhoyar/Bankers-Algorithm/assets/95959045/0d7b1ee0-fb58-499e-a655-3f649f88e6a1)
 
 
 
